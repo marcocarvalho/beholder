@@ -1,0 +1,9 @@
+version: '2'
+services:
+  spider:
+    build: .
+    command: sh
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/app
