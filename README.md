@@ -20,3 +20,4 @@ TODO
 - [ ] paginas web estáticas
 - [ ] gráficos
 - [ ] publicação
+- [ ] automatizar processos e build da imagem
